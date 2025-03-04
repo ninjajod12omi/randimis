@@ -9,8 +9,8 @@ attack_in_progress = False
 current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
-TELEGRAM_BOT_TOKEN = '8058370192:AAErXXSNYFnjjQrNNTKVV37dpuHX1r35a3U'  # Replace with your bot token
-ADMIN_USER_ID = 1240179115
+TELEGRAM_BOT_TOKEN = '7559211641:AAEDL1o2YuVGb1kHqUO1FBKnsjjA2WyuNkE'  # Replace with your bot token
+ADMIN_USER_ID = 1988828363
 MONGO_URI = "mongodb+srv://Kamisama:Kamisama@kamisama.m6kon.mongodb.net/"
 DB_NAME = "legxninja"
 COLLECTION_NAME = "users"
